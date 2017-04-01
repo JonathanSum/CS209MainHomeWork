@@ -5,7 +5,7 @@
 //ID: 881716741
 //Class : CS209 JAVA
 //Date: 4-1-207
-public class DiceGame {
+public class H2 {
     public static int d1;
     public static int d2;
     public static int ds;
